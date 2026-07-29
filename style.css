@@ -58,3 +58,10 @@ copyright{display:block;margin-top: .6rem}
   .hero{padding:2rem 1rem}
   .gallery-item img{height:120px}
 }
+
+
+/* changing background may delete code */
+/* Removes white boxes so the green background shows through */
+.card, .service, form, .site-header, .site-footer {
+  background: transparent;
+}
